@@ -89,7 +89,7 @@ We'd greatly appreciate if you could:
 | [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BF2026** - 40% off lifetime licenses | - | ✅ |
 | [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2026** - 30% off | Ends about Dec 2 | ✅ |
 | [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
-
+| [Dockspace](https://getdock.space/#pricing) | Native Swift macOS Dock replacement and Liquid Glass widget bar with 174 live widgets, live Claude Code/Codex/Antigravity quotas, Xcode DerivedData Disk Doctor, and a notch clipboard shelf | **BLACKFRIDAY2026** - 50% off all Pro plans (Lifetime $19.99 → $9.99, Forever $49.99 → $24.99, Yearly $11.99 → $5.99), auto-applied | Ends Dec 1 | ✅ |
 ## Books for developers and software engineers
 
 | **Name** | **Description**| **Deal details** | **Validity** | **Latest** |
